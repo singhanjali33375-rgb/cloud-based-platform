@@ -1,0 +1,7 @@
+## Setup
+1. Clone the repo
+2. Build Docker image
+3. Deploy using Terraform
+
+## Author
+Anjali Singh
